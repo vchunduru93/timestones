@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Minimal TypeScript Starter
+  Timestones - Find out your 1 billion seconds birthday!
 </h1>
 
 ## 🚀 Quick start
